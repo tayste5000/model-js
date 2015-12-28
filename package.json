@@ -1,0 +1,24 @@
+{
+  "name": "models-js",
+  "version": "1.0.0",
+  "description": "simple and extensible model class that performs basic CRUD operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tayste5000/model-js.git"
+  },
+  "keywords": [
+    "CRUD",
+    "model",
+    "mvc"
+  ],
+  "author": "Taylor Stevens <tayste5000@gmail.com> (https://github.com/tayste5000)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tayste5000/model-js/issues"
+  },
+  "homepage": "https://github.com/tayste5000/model-js#readme"
+}
